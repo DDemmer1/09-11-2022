@@ -5,10 +5,10 @@ WS22 - Loops
 
 ### 📝 Aufgabe:
 
-- Schreibt eine ```Methode``` die als Argument einen ```int length``` hat
+- Schreibt eine ```Methode``` die keinen Rückgabewert und als Argument einen ```int length``` hat
 - Lasst euch mit einer Schleife alle geraden Zahlen von 0 bis ```int length``` in der Konsole ausgeben wenn die Methode aufgerufen wird
 --------------------------------------
-- Löst diese Aufgabe zuerst mit einer ```while-SChleife``` und dann mit einer ```for-SChleife```
+- Löst diese Aufgabe zuerst mit einer ```while-Schleife``` und dann mit einer ```for-Schleife```
   
   ### ℹ️ Resourcen:
 Hier noch ein paar nützliche 📃Artikel, 🖊️Threads und 🎥Videos
